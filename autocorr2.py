@@ -5,7 +5,7 @@ import seaborn as sns
 
 
 # 1. Load data
-measurement1 = np.loadtxt('data/Measurement1.asc')
+measurement1 = np.loadtxt('data/Measurement2.asc')
 
 
 # Define the data used for exploration
